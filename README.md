@@ -1,5 +1,10 @@
+<a href="https://rishavchanda.io">
+    <img src="https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?size=626&ext=jpg" style="width: 100%;" alt="MasterHead">
+</a>
 <h1 align="center">Hi 👋, I'm Nibedan</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGppYWljMzc5bGY1b2w3ZWd5a28wc2tuMHJoeHh1dDR1Nmt3YjRveCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heisenberg300604&label=Profile%20views&color=0e75b6&style=flat" alt="heisenberg300604" /> </p>
 
