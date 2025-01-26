@@ -50,6 +50,11 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Deployment:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify"/> <img src="https://imgs.search.brave.com/Qn2UAITMoDk1dYMEGxA8Wg94ku4GMHs02rjfdV_ApAw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZXRk/ZXBsb3lpbmcuY29t/L3N0YXRpYy9pbWcv/bG9nb3MvcmVuZGVy/LjkwZmZhMGY3NzZi/NS5wbmc" alt="Render" width="40" height="40"/> 
+        <img src="https://imgs.search.brave.com/wzB0ayC7TSduwjmXsnsgrqCA-bgLvPpz-crKmgo6VA4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aW1hZ2VzLmhpbWFs/YXlhcy5hcHAvMms4/eGVsbmI3eTg4aGU3/OHN0MHhsdm1wZTc3/cQ" alt="Railways" width="40" height="40"/></td>
+    </tr>
+    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,replit"/></td>
     </tr>
