@@ -31,7 +31,7 @@
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,java,c"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,java,c,python"/></td>
     </tr>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
