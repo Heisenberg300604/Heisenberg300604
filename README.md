@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heisenberg300604&label=Profile%20views&color=0e75b6&style=flat" alt="heisenberg300604" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Java**
+- 🌱 I’m currently learning **DSA, Java and GoLang**
 
 - 🛠️ I’m currently working on **IOT and AI Based Projects**
 
