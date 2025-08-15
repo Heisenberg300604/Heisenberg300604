@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heisenberg300604&label=Profile%20views&color=0e75b6&style=flat" alt="heisenberg300604" /> </p>
 
-- 🌱 I’m currently learning **JAVA & DSA**
+- 🌱 I’m currently learning **Java, DSA and DevOps fundamentals**
 
 - 🛠️ I’m currently working on **PustakHub**
 
@@ -67,7 +67,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,flutter,notion,androidstudio,firebase,figma,supabase"/><img src="https://imgs.search.brave.com/acMhc0fYPEVXN2RVICLf-WgKTQQbOnnF-Cn4DmuvHAg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWMt/Y2RuLmF0bGFzc2lh/bi5jb20vZGFtL2pj/cjpmYTAxNzU2ZC02/ZGNjLTQ1ZDEtODNh/Yi02OTZmYmZlYjA3/NGYvSmlyYS1pY29u/LWJsdWUuc3ZnP2Nk/blZlcnNpb249MjQ0/Nw" alt="Jira" width="40" height="40"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,bash,flutter,notion,androidstudio,firebase,figma,supabase"/><img src="https://imgs.search.brave.com/acMhc0fYPEVXN2RVICLf-WgKTQQbOnnF-Cn4DmuvHAg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWMt/Y2RuLmF0bGFzc2lh/bi5jb20vZGFtL2pj/cjpmYTAxNzU2ZC02/ZGNjLTQ1ZDEtODNh/Yi02OTZmYmZlYjA3/NGYvSmlyYS1pY29u/LWJsdWUuc3ZnP2Nk/blZlcnNpb249MjQ0/Nw" alt="Jira" width="40" height="40"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
