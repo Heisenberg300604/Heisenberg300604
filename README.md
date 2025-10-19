@@ -56,6 +56,10 @@
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
+     <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=githubactions"/></td>
+    </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Deployment:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify"/> <img src="https://imgs.search.brave.com/Qn2UAITMoDk1dYMEGxA8Wg94ku4GMHs02rjfdV_ApAw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZXRk/ZXBsb3lpbmcuY29t/L3N0YXRpYy9pbWcv/bG9nb3MvcmVuZGVy/LjkwZmZhMGY3NzZi/NS5wbmc" alt="Render" width="40" height="40"/> 
