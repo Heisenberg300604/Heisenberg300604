@@ -32,7 +32,7 @@
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,java,c,python"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,java,c,python,dart"/></td>
     </tr>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
@@ -44,7 +44,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,dynamodb"/></td>
     </tr>
      <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Python Frameworks:</td>
