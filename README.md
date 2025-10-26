@@ -40,11 +40,15 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman,redis,supabase,firebase"/> <img height="40" src="https://skills-icons.vercel.app/api/icons?i=socketio"/> </td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman,redis,supabase,firebase,appwrite"/> <img height="40" src="https://skills-icons.vercel.app/api/icons?i=socketio"/> </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,dynamodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Mobile Dev</td>
+        <td><img height="40" src="https://skills.syvixor.com/api/icons?perline=15&i=reactnative,flutter,androidstudio"/></td>
     </tr>
      <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Python Frameworks:</td>
@@ -63,8 +67,8 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Deployment:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify"/> <img src="https://imgs.search.brave.com/Qn2UAITMoDk1dYMEGxA8Wg94ku4GMHs02rjfdV_ApAw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZXRk/ZXBsb3lpbmcuY29t/L3N0YXRpYy9pbWcv/bG9nb3MvcmVuZGVy/LjkwZmZhMGY3NzZi/NS5wbmc" alt="Render" width="40" height="40"/> 
-        <img src="https://imgs.search.brave.com/wzB0ayC7TSduwjmXsnsgrqCA-bgLvPpz-crKmgo6VA4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aW1hZ2VzLmhpbWFs/YXlhcy5hcHAvMms4/eGVsbmI3eTg4aGU3/OHN0MHhsdm1wZTc3/cQ" alt="Railways" width="40" height="40"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify"/> <img src="https://skills.syvixor.com/api/icons?perline=15&i=render,railway"height="40"/> 
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
@@ -72,7 +76,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,bash,flutter,notion,androidstudio,figma"/><img src="https://skills.syvixor.com/api/icons?perline=15&i=jira" alt="Jira" width="40" height="40"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,bash,notion,figma"/><img src="https://skills.syvixor.com/api/icons?perline=15&i=jira" alt="Jira" width="40" height="40"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
