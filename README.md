@@ -24,6 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/nibedanpati" target="blank"><img height="40" align="center" src="https://skillicons.dev/icons?i=twitter"/></a>
 <a href="https://www.linkedin.com/in/nibedan-pati-2139b3277/" target="blank"><img height="40" align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://leetcode.com/u/Nibedan/" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?i=leetcode"/></a>
 </p>
 
 ### Languages and Tools I Use 👨🏻‍💻
