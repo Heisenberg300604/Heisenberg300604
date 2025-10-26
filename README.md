@@ -22,9 +22,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nibedanpati" target="blank"><img height="40" align="center" src="https://skillicons.dev/icons?i=twitter"/></a>
-<a href="https://www.linkedin.com/in/nibedan-pati-2139b3277/" target="blank"><img height="40" align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://twitter.com/nibedanpati" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=x"/></a>
+<a href="https://www.linkedin.com/in/nibedan-pati-2139b3277/" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin"/></a>
 <a href="https://leetcode.com/u/Nibedan/" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?i=leetcode"/></a>
+<a href="https://www.youtube.com/@TeamSynapse3" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=youtube"/></a>
+<a href="mailto:nibedanpati@gmail.com" target="_blank">
+  <img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=gmail" alt="Email Nibedan" />
+</a>
+
 </p>
 
 ### Languages and Tools I Use 👨🏻‍💻
@@ -48,7 +53,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Mobile Dev</td>
-        <td><img height="40" src="https://skills.syvixor.com/api/icons?perline=15&i=reactnative,flutter,androidstudio"/></td>
+        <td><img height="40" src="https://skills.syvixor.com/api/icons?perline=15&i=reactnative,expo,flutter,androidstudio"/></td>
     </tr>
      <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Python Frameworks:</td>
@@ -80,7 +85,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,apple"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,apple"/> <img height="40" src="https://skills.syvixor.com/api/icons?perline=15&i=linux,parrotos"/></td>
     </tr> 
 </table>
 
