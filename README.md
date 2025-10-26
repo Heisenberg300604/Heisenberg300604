@@ -40,7 +40,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman,redis"/> <img height="40" src="https://skills-icons.vercel.app/api/icons?i=socketio"/> </td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman,redis,supabase,firebase"/> <img height="40" src="https://skills-icons.vercel.app/api/icons?i=socketio"/> </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
@@ -50,7 +50,7 @@
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Python Frameworks:</td>
     <td>
         <img height="40" src="https://skillicons.dev/icons?i=flask"/>
-        <img height="40" src="https://imgs.search.brave.com/CjiZ1b8Me_qlPgtNygMwHznMU51jEt21ik_x4Z3p7ug/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL1N0cmVhbWxp/dC5zdmc"/>
+        <img height="40" src="https://skills.syvixor.com/api/icons?perline=15&i=streamlit"/>
     </td>
 </tr>
     <tr>
@@ -72,7 +72,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,bash,flutter,notion,androidstudio,firebase,figma,supabase"/><img src="https://imgs.search.brave.com/acMhc0fYPEVXN2RVICLf-WgKTQQbOnnF-Cn4DmuvHAg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWMt/Y2RuLmF0bGFzc2lh/bi5jb20vZGFtL2pj/cjpmYTAxNzU2ZC02/ZGNjLTQ1ZDEtODNh/Yi02OTZmYmZlYjA3/NGYvSmlyYS1pY29u/LWJsdWUuc3ZnP2Nk/blZlcnNpb249MjQ0/Nw" alt="Jira" width="40" height="40"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,bash,flutter,notion,androidstudio,figma"/><img src="https://skills.syvixor.com/api/icons?perline=15&i=jira" alt="Jira" width="40" height="40"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
