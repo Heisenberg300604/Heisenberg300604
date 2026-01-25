@@ -41,7 +41,7 @@
     </tr>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,bootstrap,redux,materialui,html,css,jest"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,sass,bootstrap,redux,materialui,html,css,jest"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
