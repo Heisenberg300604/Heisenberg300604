@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java, DSA and DevOps**
 
-- 🛠️ I’m currently working on **Devscanr**
+- 🛠️ I’m currently working on **LockIn**
 
 - 💬 Ask me about **Full Stack Development !**
 
@@ -18,12 +18,13 @@
 
 - 👨‍💻 I love to attend Tech events/Meetups and make new connections.
 
-- ⚡ Strong intrest in **DevOps and CyberSecurity**. 
+- ⚡ Strong intrest in **Generative AI and DevOps**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nibedanpati" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=x"/></a>
+<a href="https://x.com/ItsHeisenberg04" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=x"/></a>
 <a href="https://www.linkedin.com/in/nibedan-pati-2139b3277/" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin"/></a>
+<a href="https://medium.com/@nibedanpati" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=medium"/></a>
 <a href="https://leetcode.com/u/Nibedan/" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?i=leetcode"/></a>
 <a href="https://www.youtube.com/@Heisenberg3006-y0" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=youtube"/></a>
 <a href="mailto:nibedanpati@gmail.com" target="_blank">
