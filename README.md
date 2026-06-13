@@ -25,7 +25,7 @@
 <a href="https://twitter.com/nibedanpati" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=x"/></a>
 <a href="https://www.linkedin.com/in/nibedan-pati-2139b3277/" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin"/></a>
 <a href="https://leetcode.com/u/Nibedan/" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?i=leetcode"/></a>
-<a href="https://www.youtube.com/@TeamSynapse3" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=youtube"/></a>
+<a href="https://www.youtube.com/@Heisenberg3006-y0" target="blank"><img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=youtube"/></a>
 <a href="mailto:nibedanpati@gmail.com" target="_blank">
   <img height="40" align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=gmail" alt="Email Nibedan" />
 </a>
