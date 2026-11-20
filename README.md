@@ -10,15 +10,15 @@
 
 - 🌱 I’m currently learning **Java, DSA and DevOps**
 
-- 🛠️ I’m currently working on **LockIn**
+- 🛠️ I’m currently working on **A Lot of Projects**
 
-- 💬 Ask me about **Full Stack Development !**
+- 💬 Ask me about **Full Stack Development , Mobile Dev , DevOps , Content Creation etc!**
 
 - 📫 How to reach me **nibedanpati@gmail.com**
 
 - 👨‍💻 I love to attend Tech events/Meetups and make new connections.
 
-- ⚡ Strong intrest in **Generative AI and DevOps**. 
+- ⚡ Strong intrest in **Agentic AI and DevOps**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
